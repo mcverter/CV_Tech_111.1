@@ -1,25 +1,32 @@
-#Personal {
-	border : 3px yellow;
- width: 200px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-	color:  orange;
-	background: purple;
+div {
+    border : 3px yellow;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color:  orange;
+    background: purple;
+}
+
+table {
+    border : 3px orangered;
+}
+tr, td {
+    border: 1px maroon;
 }
 
 body {
-background-color:#452B83;
-color:#FFD900;
+    background-color:#452B83;
+    color:#FFD900;
 }
 
 a:link {
-color:#BFAA30;
+    color:#BFAA30;
 }
 a:hover {
-color:#A68D00;
-font-weight:bold;
+    color:#A68D00;
+    font-weight:bold;
 }
 a:visited {
-color:#BFAA30;
+    color:#A68D00;
 }
