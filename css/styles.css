@@ -1,0 +1,25 @@
+#Personal {
+	border : 3px yellow;
+ width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+	color:  orange;
+	background: purple;
+}
+
+body {
+background-color:#452B83;
+color:#FFD900;
+}
+
+a:link {
+color:#BFAA30;
+}
+a:hover {
+color:#A68D00;
+font-weight:bold;
+}
+a:visited {
+color:#BFAA30;
+}
