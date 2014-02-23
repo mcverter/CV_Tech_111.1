@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title> Mitchell Verter's Resume </title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
-</head>
+<?php include("header.php");  make_header("Tech Projects")?>
 
-<body>
-<?php include("header.php"); ?>
-
-<div id="Projects"></div>
-<h2> Projects </h2>
 <ul>
     <li> <dl>
             <dt> Self Education (2014) </dt>
@@ -66,5 +56,5 @@
             <dd>Used PERL LWP together with Flickr API to crawl and grab <a href="http://www.flickr.com/photos/17984487@N00/sets/72157594495327653/"> images</a> then compine them into a <a href="http://waste.org/~roadrunner/ScarletLetterArchives/ModernSchool/ModernSchoolByKelly.pdf"> PDF </a> which was converted to <a href="http://waste.org/~roadrunner/ScarletLetterArchives/ModernSchool/ModernSchoolByKelly.htm"> text </a></dd>
         </dl></li>
 </ul>
-</body>
-</html>
+
+<?php include("footer.php"); ?>

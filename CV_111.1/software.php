@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title> Mitchell Verter's Resume </title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
-</head>
+<?php include("header.php");  make_header("Tech Skills")?>
 
-<body>
-<?php include("header.php"); ?>
-
-<h2>Programming Experience</h2>
 
 <ul>
     <li>	Object Orientation
@@ -16,8 +7,12 @@
             <li> Over a decade using Object Oriented languages such as C++, Java, Python, as well as Object Oriented PERL and PHP </li>
             <li> Know UML and other modeling diagrams </li>
             <li> Currently studying Design Patterns   http://shop.oreilly.com/product/9780596007126.do  </li>
+           </ul></li></ul>
 
 
+            <?php include("footer.php"); ?>
+
+<!--
 
             Portfolio Projects:
             -------------------
@@ -71,6 +66,5 @@
             RESTFUL: Years ago, I designed a PERL LWP crawler to assemble PDFs from pages
             hosted on Flickr.
             Read <a href=" http://shop.oreilly.com/product/0636920030195.do"> Mining the Social Web">
-
-
+-->
 

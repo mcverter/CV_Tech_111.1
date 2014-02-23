@@ -27,5 +27,8 @@
                 </a>
         </dl></li>
 </ul>
+
+<?php include("footer.php"); ?>
+
 </body>
 </html>

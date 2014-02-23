@@ -19,5 +19,7 @@ Key Qualities: Team player, good communicator, quick learner, effective teacher,
 SOFTWARE WORK EXPERIENCE
 SOFTWARE PROJECTS:
 
+<?php include("footer.php"); ?>
+
 </body>
 </html>

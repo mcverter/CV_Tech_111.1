@@ -1,16 +1,31 @@
-<nav>
-    <div id="nav">
-        <ul>
-            <li> Contact  </li>
-            <li> <a href="engineerWork.php"> Software Work History</a>  </li>
-            <li> <a href="otherWork.php"> Other Work History </a> </li>
-            <li> <a href="projects.php"> Projects  </a> </li>
-            <li> <a href="publications.php"> Publications </a> </li>
-            <li> <a href="lectures.php"> Lectures </a> </li>
-            <li> <a href="software.php"> Software Tookits </a> </li>
-            <li> <a href="education.php"> Education </a> </li>
-            <li> <a href="contact.php"> Contact </a> </li>
+<?php
 
+function make_header ($title) {
+
+echo <<<EOT
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Mitchell Verter | $title </title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+
+<body>
+<nav>
+    <div id="header">
+        <ul>
+            <li> <a href="engineerWork.php"> Tech Work</a>  </li>
+            <li> <a href="projects.php"> Tech Projects  </a> </li>
+            <li> <a href="software.php"> Tech Skills </a> </li>
+            <li> <a href="demosrepos.php"> Demos &amp; Repos </a> </li>
+            <li> <a href="contact.php"> Contact </a> </li>
         </ul>
     </div>
 </nav>
+<br>
+<h1> $title </h1>
+<div id="$title">
+EOT;
+}
+?>
