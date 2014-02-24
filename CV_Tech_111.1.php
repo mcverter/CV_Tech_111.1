@@ -1,17 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title> Mitchell Verter's Resume </title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
-</head>
 
-<body>
-<h1> Mitchell Verter's Resume </h1>
-
-<?php include("header.php"); ?>
+<?php include("header.php");  make_header("Main Resume")?>
 
 <ul>
-    <li> Contact  </li>
     <li> <a href="engineerWork.php"> Software Work History</a>  </li>
     <li> <a href="otherWork.php"> Other Work History </a> </li>
     <li> <a href="projects.php"> Projects  </a> </li>
@@ -25,7 +15,3 @@
 
 
 <?php include("footer.php"); ?>
-
-
-</body>
-</html>

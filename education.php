@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<?php include("header.php"); ?>
+<?php include("header.php");  make_header("Education")?>
 
 <blockquote>
     BS, Computer Science. 		<br>
@@ -23,6 +23,3 @@
 </blockquote>
 
 <?php include("footer.php"); ?>
-
-</body>
-</html>
