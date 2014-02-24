@@ -1,6 +1,12 @@
 <?php include("header.php");  make_header("Tech Projects")?>
 
+
 <h2> <a target="_blank" href="https://github.com/mcverter">Github Main </a></h2>
+
+<h2> <a target="_blank" href="http://waste.org/~roadrunner/JobSearch/"> This Resume </a> </h2>
+<ul>
+    <li> <a target="_blank" href="https://github.com/mcverter/CV_Tech_111.1"> Codebase </a></li>
+</ul>
 
 <h2> <a target="_blank" href="https://github.com/mcverter/2014_CodeStudies"> Self Education (2014) </a> </h2>
 <ul>
