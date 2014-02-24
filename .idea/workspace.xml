@@ -32,10 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CV_Tech_111.1.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CV_Tech_111.1.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CV_Tech_111.1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="542" selection-end="542" vertical-scroll-proportion="-10.0625" vertical-offset="0" max-vertical-offset="529">
+            <state line="9" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.5362694" vertical-offset="0" max-vertical-offset="621">
               <folding />
             </state>
           </provider>
@@ -59,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publications.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="publications.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/publications.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1449">
+            <state line="5" column="85" selection-start="446" selection-end="446" vertical-scroll-proportion="-3.59375" vertical-offset="0" max-vertical-offset="1449">
               <folding />
             </state>
           </provider>
@@ -127,7 +127,6 @@
         <option value="$PROJECT_DIR$/projects.php" />
         <option value="$PROJECT_DIR$/software.php" />
         <option value="$PROJECT_DIR$/demosrepos.php" />
-        <option value="$PROJECT_DIR$/CV_Tech_111.1.php" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/engineerWork.php" />
         <option value="$PROJECT_DIR$/header.php" />
@@ -136,14 +135,15 @@
         <option value="$PROJECT_DIR$/otherWork.php" />
         <option value="$PROJECT_DIR$/lectures.php" />
         <option value="$PROJECT_DIR$/publications.php" />
+        <option value="$PROJECT_DIR$/CV_Tech_111.1.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1384" />
+    <option name="x" value="-241" />
+    <option name="y" value="29" />
+    <option name="width" value="989" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -276,7 +276,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1384" height="738" extended-state="6" />
+    <frame x="-241" y="29" width="989" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -284,7 +284,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1566618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22039135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -420,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Tech_111.1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="542" selection-end="542" vertical-scroll-proportion="-10.0625" vertical-offset="0" max-vertical-offset="529">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demosrepos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="33" selection-start="0" selection-end="76" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="805">
@@ -499,7 +492,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/publications.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1449">
+        <state line="5" column="85" selection-start="446" selection-end="446" vertical-scroll-proportion="-3.59375" vertical-offset="0" max-vertical-offset="1449">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Tech_111.1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.5362694" vertical-offset="0" max-vertical-offset="621">
           <folding />
         </state>
       </provider>
