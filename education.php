@@ -5,7 +5,7 @@
     City College, CUNY 		    <br>
     Graduated: December 2013    <br>
     GPA 3.9
-    </blockquote>
+</blockquote>
 
 <blockquote>
     BS/BA, Psych/Religion.		<br>

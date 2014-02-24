@@ -1,4 +1,5 @@
 <?php include("header.php");  make_header("Contact And Links")?>
+
 <h2> Contact </h2>
 <blockquote>
     <p>
@@ -6,17 +7,18 @@
         <br>
         73 St. Pauls Place, F5	/ Brooklyn, NY 11226
         <br>
-        (646) 705-7784 </p>
+        (646) 705-7784
+    </p>
 </blockquote>
 
 <br>
 
 <h2> Links </h2>
 <blockquote>
-   <ul>
-       <li> <a href=""> mcverter Github</a></li>
-       <li> <a href="http://www.linkedin.com/pub/mitchell-verter/88/903/778"> Linked In </a></li>
-       <li> <a href="http://www.waste.org/~roadrunner">Personal Website</a></li>
+    <ul>
+        <li> <a href="https://github.com/mcverter"> mcverter Github</a></li>
+        <li> <a href="http://www.linkedin.com/pub/mitchell-verter/88/903/778"> Linked In </a></li>
+        <li> <a href="http://www.waste.org/~roadrunner">Personal Website</a></li>
     </ul>
 </blockquote>
 

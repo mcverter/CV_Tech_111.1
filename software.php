@@ -27,17 +27,25 @@
 <h2> Java  </h2>
 <ul>
     <li> Coding in Java for 3+ years </li>
-    <li> Used it throughout CCNY </li>
+    <li> Used it throughout
+        <a href="https://github.com/mcverter/Python_Java_CCNY_Code/tree/master/Java"> CCNY
+        </a>
+    </li>
     <li> Solid Core Java Skills </li>
     <li> Have not used J2EE or advanced packages </li>
-    https://bitbucket.org/RoadrunnerAtWaste/securejavachat
+
 </ul>
 
 <h2>  Python </h2>
 <ul>
     <li> Transitioned to Python from Java for quicker prototyping </li>
     <li> Still developing pythonic coding habits (eg: lambdas and list comprehensions)</li>
-    <li> Know Django </li>
+    <li> Used it throughout
+        <a href="https://github.com/mcverter/Python_Java_CCNY_Code/tree/master/Python"> CCNY
+        </a>
+    </li>
+    <li> Used Django to <a href="https://github.com/mcverter/python_django_paralleltext-github">
+            </a> code <a href="http://parallel-text.herokuapp.com"> Parallel Text </a>
 </ul>
 
 <h2> Javascript </h2>
