@@ -64,9 +64,26 @@
     <li> Using Laravel for Guttersnipe, PADMA, and this resume. </li>
     <li> Experience using Restful APIs, Mining the Social Web</li>
 </ul>
+
+<h2> Other Technical </h2>
 <ul>
     <li> Experience using Restful APIs, Mining the Social Web</li>
+    <li> HTML5 / CSS3 </li>
+    <li> shell scripting, *nix utilities, Linux From Scratch, git </li>
+    <li> Agile / TDD / Jenkins </li>
+    <li> Emacs, Eclipse, JetBrains, QtCreator</li>
 </ul>
+
+<h2> Other Qualities </h2>
+<ul>
+    <li> Team player </li>
+    <li> Good communicator </li>
+    <li> Quick learner </li>
+    <li> Effective teacher </li>
+    <li> Good leader </li>
+</ul>
+
+
 <?php include("footer.php"); ?>
 
 

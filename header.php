@@ -12,7 +12,6 @@ echo <<<EOT
 </head>
 
 <body>
-<nav>
     <div class="nav">
         <ul>
             <li> <a href="engineerWork.php"> Tech Work</a>  </li>
@@ -22,8 +21,9 @@ echo <<<EOT
             <li> <a href="contact.php"> Contact </a> </li>
         </ul>
     </div>
-</nav>
+
 <br>
+
 <h1> $title </h1>
 <div class="main">
 EOT;

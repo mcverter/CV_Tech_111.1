@@ -1,6 +1,9 @@
 <?php include("header.php");  make_header("Deployments and Repositories")?>
 
-<p><a href="https://github.com/mcverter">Github Main</a> </p>
+<h2>Github</h2>
+<ul>
+    <li> <a href="https://github.com/mcverter">Github Main</a> </li>
+</ul>
 
 <h2> Parallel Text </h2>
 <ul>

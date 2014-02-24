@@ -5,7 +5,6 @@
     <a href="mailto:mitchell.verter@gmail.com"> mitchell.verter@gmail.com </a>
 </div>
 <br>
-<nav>
     <div class="nav">
         <ul>
             <li> <a href="otherWork.php"> Other Work </a> </li>
@@ -15,7 +14,6 @@
             <li> <a href="contact.php"> Contact </a> </li>
         </ul>
     </div>
-</nav>
 
 </body>
 </html>
