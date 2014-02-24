@@ -5,25 +5,19 @@
     <li> <a target="_blank" href="https://github.com/mcverter">Github Main</a> </li>
 </ul>
 
-<h2> Parallel Text </h2>
+<h2> Parallel Text (Spring 2013)</h2>
 <ul>
     <li> Python/Django, postgres, HTML, CSS, Javascript/jquery </li>
-    <li> Repository </li>
-    <li> Codebase </li>
+    <li> <a target="_blank" href="http://parallel-text.herokuapp.com"> Deployment </a></li>
+    <li> <a target="_blank" href="https://github.com/mcverter/python_django_paralleltext-github"> Codebase</a> </li>
 </ul>
 
-<h2> First Row Movies</h2>
+<h2> First Row Movies (Fall 2012)</h2>
 <ul>
     <li> Object-Oriented PHP, mysql, Javascript, CSS3, HTML5 </li>
-    <li> Repository </li>
-    <li> Codebase </li>
+    <li> <a href="http://waste.org/~roadrunner/firstrowmovies/">Deployment</a> </li>
+    <li> <a href="https://github.com/mcverter/php_mysql_firstrowmovies-github"> Codebase</a> </li>
 </ul>
 
-
-<h2> W.A.S.T.E. squat, want squat in PERL/CGI (deployment / codebase )perl cgi </h2>
-<ul>
-    <li> Repository </li>
-    <li> Codebase </li>
-</ul>
 
 <?php include("footer.php"); ?>
