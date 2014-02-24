@@ -1,4 +1,4 @@
-<?php include("header.php");  make_header("Other Work Experience")?>
+<?php include("header.php");  make_header("Academic Work Experience")?>
 
 <h2> Professor/TA, York University/New School		Toronto and New York		09/07-05/12</h2>
 <ul>
