@@ -36,6 +36,7 @@
     <li> Scrum Master / Coder, Parallel Text </li>
     <li> Led a team of student coders to create an online facing-text language-learning resource.</li>
     <li> Python, Javascript, django, postgresql, CSS3, HTML5</li>
+    <li> <a target="_blank" href="https://github.com/mcverter/python_django_paralleltext-github"> Codebase</a> </li>
 </ul>
 
 <h2> <a target="_blank" href="http://waste.org/~roadrunner/firstrowmovies"> First Row Movies (Fall 2012) </a> </h2>
@@ -43,6 +44,7 @@
     <li> Project Manager / Coder </li>
     <li> Led a team of student coders to create an online movie recommendation engine.</li>
     <li> Object-Oriented PHP, mysql, Javascript, CSS3, HTML5 </li>
+    <li> <a target="_blank" href="https://github.com/mcverter/php_mysql_firstrowmovies-github"> Codebase </a> </li>
 </ul>
 
 <h2> <a target="_blank" href="http://www.waste.org/~roadrunner/ScarletLetterArchives/">ScarletLetterArchives (2003) </a> </h2>
@@ -53,7 +55,7 @@
 
 <h2> <a target="_blank" href="http://www.waste.org/~roadrunner/squat/index.html">W.A.S.T.E Squat, Want Squat (2002) </a></h2>
 <ul>
-    <li> Coder </li>
+    <li> <a target="_blank" href="https://github.com/mcverter/Guttersnipe">Codebase</a>)</li>
 </ul>
 
 

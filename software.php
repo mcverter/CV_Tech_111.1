@@ -43,15 +43,19 @@
 <ul>
     <li> Transitioned to Python from Java for quicker prototyping </li>
     <li> Still developing pythonic coding habits (eg: lambdas and list comprehensions)</li>
-    <li> Used it throughout
-        <a target="_blank" href="https://github.com/mcverter/Python_Java_CCNY_Code/tree/master/Python"> CCNY</a>
+    <li> Samples
+        <ul>
+            <li> Used it throughout
+                <a target="_blank" href="https://github.com/mcverter/Python_Java_CCNY_Code/tree/master/Python"> CCNY</a>
+            </li>
+            <li> Used it to develop
+                <a target="_blank" href="https://github.com/mcverter/Python_Image_Segmentation">
+                    Image Segmentation Library </a>
+            </li>
+            <li> Used Django for "Parallel Text" (<a target="_blank" href="http://parallel-text.herokuapp.com"> deployment </a>
+                / <a target="_blank" href="https://github.com/mcverter/python_django_paralleltext-github"> codebase</a>) </li>
+        </ul>
     </li>
-    <li> Used it to develop
-        <a target="_blank" href="https://github.com/mcverter/Python_Image_Segmentation">
-            Image Segmentation Library </a>
-    </li>
-    <li> Used Django for "Parallel Text" (<a target="_blank" href="http://parallel-text.herokuapp.com"> deployment </a>
-        / <a target="_blank" href="https://github.com/mcverter/python_django_paralleltext-github"> codebase</a>) </li>
 </ul>
 
 <h2> Javascript </h2>
