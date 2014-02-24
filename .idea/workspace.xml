@@ -32,10 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="contact.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="0.73255813" vertical-offset="13" max-vertical-offset="736">
+            <state line="17" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="-11.8125" vertical-offset="13" max-vertical-offset="736">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="131" column="10" selection-start="1689" selection-end="1689" vertical-scroll-proportion="0.790146" vertical-offset="2580" max-vertical-offset="3220">
               <folding />
             </state>
           </provider>
@@ -58,12 +67,12 @@
         <option value="$PROJECT_DIR$/CV_Tech_111.1.php" />
         <option value="$PROJECT_DIR$/lectures.php" />
         <option value="$PROJECT_DIR$/education.php" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/software.php" />
         <option value="$PROJECT_DIR$/otherWork.php" />
         <option value="$PROJECT_DIR$/projects.php" />
         <option value="$PROJECT_DIR$/publications.php" />
         <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -288,7 +297,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="1218" />
+        <state line="18" column="0" selection-start="271" selection-end="271" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="1218">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
@@ -301,11 +312,6 @@
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="58" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="462" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="56" selection-end="56" vertical-scroll-proportion="0.09126984" vertical-offset="0" max-vertical-offset="2967" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demosrepos.php">
@@ -374,7 +380,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="0.73255813" vertical-offset="13" max-vertical-offset="736">
+        <state line="17" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="-11.8125" vertical-offset="13" max-vertical-offset="736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="10" selection-start="1689" selection-end="1689" vertical-scroll-proportion="0.790146" vertical-offset="2580" max-vertical-offset="3220">
           <folding />
         </state>
       </provider>

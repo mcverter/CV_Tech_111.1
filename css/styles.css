@@ -121,3 +121,14 @@ a:visited {
 .main ul a:visited {
     color:maroon;
 }
+
+blockquote a:link {
+    color:#6f0aaa;
+}
+blockquote a:hover {
+    color:maroon;
+    font-weight:bold;
+}
+blockquote a:visited {
+    color:maroon;
+}
