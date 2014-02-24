@@ -15,11 +15,11 @@
 
 <h2> Links </h2>
 <blockquote>
-    <ul>
-        <li> <a href="https://github.com/mcverter"> mcverter Github</a></li>
-        <li> <a href="http://www.linkedin.com/pub/mitchell-verter/88/903/778"> Linked In </a></li>
-        <li> <a href="http://www.waste.org/~roadrunner">Personal Website</a></li>
-    </ul>
+    <p>
+       <a href="https://github.com/mcverter"> mcverter Github</a><br>
+       <a href="http://www.linkedin.com/pub/mitchell-verter/88/903/778"> Linked In </a><br>
+       <a href="http://www.waste.org/~roadrunner">Personal Website</a>
+    </p>
 </blockquote>
 
 
