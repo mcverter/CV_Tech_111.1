@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title> Mitchell Verter's Resume </title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
-</head>
-
-<body>
 <?php include("header.php");  make_header("Education")?>
 
 <blockquote>

@@ -2,7 +2,7 @@
 
 <ul>
     <li>
-        <p> "Undoing Patriarchy, Subverting Politics: Anarchism as a Practice of Caring" </p>
+        <h2> "Undoing Patriarchy, Subverting Politics: Anarchism as a Practice of Caring" </h2>
         <br>
         <p>
             <iframe width="420" height="315" src="//www.youtube.com/embed/-77n1fHOvWE" frameborder="0" allowfullscreen></iframe>
