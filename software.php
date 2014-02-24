@@ -11,11 +11,11 @@
 <ul>
     <li> Coding Guttersnipe using Laravel </li>
     <li> Coding PHP/Oracle for PADMA </li>
-    <li> Used PHP/MySQL for "First Row Movies" (<a href="http://waste.org/~roadrunner/firstrowmovies/">deployment</a> / <a href="https://github.com/mcverter/php_mysql_firstrowmovies-github"> codebase</a>) </li>
-    <li> Used PHP/MySQL for Database class (deployment / <a href="https://github.com/mcverter/PHP_mysql">codebase</a>) </li>
+    <li> Used PHP/MySQL for "First Row Movies" (<a target="_blank" href="http://waste.org/~roadrunner/firstrowmovies/">deployment</a> / <a target="_blank" href="https://github.com/mcverter/php_mysql_firstrowmovies-github"> codebase</a>) </li>
+    <li> Used PHP/MySQL for Database class (deployment / <a target="_blank" href="https://github.com/mcverter/PHP_mysql">codebase</a>) </li>
     <li> Have programmed in PERL since 1998</li>
     <li> Worked 2 years at ShortCycles in Object Oriented PERL</li>
-    <li> W.A.S.T.E. squat, want squat in PERL/CGI (<a target="_blank" href="http://waste.org/~roadrunner/squat/index.html">deployment</a> / <a href="https://github.com/mcverter/Guttersnipe">codebase</a>)</li>
+    <li> W.A.S.T.E. squat, want squat in PERL/CGI (<a target="_blank" href="http://waste.org/~roadrunner/squat/index.html">deployment</a> / <a target="_blank" href="https://github.com/mcverter/Guttersnipe">codebase</a>)</li>
 
 </ul>
 
