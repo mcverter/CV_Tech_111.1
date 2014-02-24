@@ -2,32 +2,63 @@ h1, h2 {
     text-align: center;
 }
 
+ul {
+    padding: 20px;
+    border : 3px #B6BD2F;
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color:  black;
+    background: gold;
+}
 
-nav div ul {
+
+blockquote {
+    background: #8d2372;
+
+}
+div {
+    padding: 20px;
+    border : 3px #B6BD2F;
+    display: block;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+div.main {
+    width: 85%;
+    color:  orange;
+    background: purple;
+}
+
+div#email {
+    width: 85%;
+    background: maroon;
+    text-align: center;
+}
+
+div.nav {
+    width: 95%;
+    background: #410b52;
+}
+
+div.nav ul {
     width: 100%;
     padding: 15px;
     margin: 0px auto 0px auto;
-    border-top: 2px solid #000;
-    border-bottom: 1px solid #000;
-    text-align: center;}
+    text-align: center;
+    color: #FFD900;
+    background: #410b52;
+}
 
-nav div ul li {
+div.nav ul li {
     display: inline;
     margin: 0px 3px;
 }
 
-
-
-div {
-    padding: 20px;
-    border : 3px #B6BD2F;
-    width: 500px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    color:  orange;
-    background: purple;
-}
 
 table {
     border : 3px orangered;

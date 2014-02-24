@@ -1,8 +1,12 @@
 </div>
 
-<div> Contact me : <a href="mailto:mitchell.verter@gmail.com"> mitchell.verter@gmail.com </a></div>
+<div id="email">
+    Contact me :
+    <a href="mailto:mitchell.verter@gmail.com"> mitchell.verter@gmail.com </a>
+</div>
+<br>
 <nav>
-    <div id="footer">
+    <div class="nav">
         <ul>
             <li> <a href="otherWork.php"> Other Work </a> </li>
             <li> <a href="publications.php"> Publications </a> </li>

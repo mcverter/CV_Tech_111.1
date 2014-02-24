@@ -13,7 +13,7 @@ echo <<<EOT
 
 <body>
 <nav>
-    <div id="header">
+    <div class="nav">
         <ul>
             <li> <a href="engineerWork.php"> Tech Work</a>  </li>
             <li> <a href="projects.php"> Tech Projects  </a> </li>
@@ -25,7 +25,7 @@ echo <<<EOT
 </nav>
 <br>
 <h1> $title </h1>
-<div id="$title">
+<div class="main">
 EOT;
 }
 ?>
