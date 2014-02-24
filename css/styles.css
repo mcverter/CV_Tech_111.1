@@ -14,9 +14,10 @@ ul {
 }
 
 blockquote {
-    background: #8d2372;
-
+    background: darkorange;
+    color: black;
 }
+
 div {
     padding: 20px;
     border : 3px #B6BD2F;
@@ -24,27 +25,28 @@ div {
     margin: 20px;
     margin-left: auto;
     margin-right: auto;
-
 }
 
-div.main {
+.main {
     width: 85%;
     color:  orange;
     background: purple;
 }
 
-div#email {
+#email {
     width: 85%;
+    font-size: 3em;
     background: maroon;
     text-align: center;
 }
 
-div.nav {
+.nav {
     width: 95%;
     background: #410b52;
+    font-size: 2em;
 }
 
-div.nav ul {
+.nav ul {
     width: 100%;
     padding: 15px;
     margin: 0px auto 0px auto;
@@ -53,7 +55,7 @@ div.nav ul {
     background: #410b52;
 }
 
-div.nav ul li {
+.nav ul li {
     display: inline;
     margin: 0px 3px;
 }

@@ -14,10 +14,10 @@ echo <<<EOT
 <body>
     <div class="nav">
         <ul>
-            <li> <a href="engineerWork.php"> Tech Work</a>  </li>
-            <li> <a href="projects.php"> Tech Projects  </a> </li>
-            <li> <a href="software.php"> Tech Skills </a> </li>
-            <li> <a href="demosrepos.php"> Demos &amp; Repos </a> </li>
+            <li> <a href="engineerWork.php"> Tech Work</a>  </li> |
+            <li> <a href="projects.php"> Tech Projects  </a> </li> |
+            <li> <a href="software.php"> Tech Skills </a> </li> |
+            <li> <a href="demosrepos.php"> Demos &amp; Repos </a> </li> |
             <li> <a href="contact.php"> Contact </a> </li>
         </ul>
     </div>

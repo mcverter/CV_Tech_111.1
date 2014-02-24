@@ -11,10 +11,7 @@
     <li>Designed Foot Traffic Tracker and Analytics Engine, implemented as a standalone and a web application.</li>
     <li>Redesigned Interactive Area object class.</li>
     <li> C++, QML, PHP, Javascript </li>
-    <li> A part time job, during the last year of school. Left because of bad pay,
-        <a href="http://www.curiomotion.com/#!prevas/c46c"> bad business model</a>,
-        <a href="http://www.curiomotion.com/#!company/cm8a">bad philosophy</a>, and bad code.
-    </li>
+    <li> A part time job, during the last year of school. </li>
 </ul>
 
 <h2>
