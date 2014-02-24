@@ -9,9 +9,8 @@
             <li> ESL </li>
             <li> Design Principles </li>
             <li> Political Philosophy </li>
-            </ul>
-        </li>
-    </ul>
+        </ul>
+    </li>
 </ul>
 
 <h2> Author, AK Press, 				Oakland, CA			09/04-05/06</h2>

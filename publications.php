@@ -1,8 +1,6 @@
 <?php include("header.php");  make_header("Publications")?>
     <ul>
-
-        <li>
-            <a href="http://www.amazon.com/Artificial-Intelligence-Century-Stephen-Lucci/dp/1936420236">
+        <li>            <a href="http://www.amazon.com/Artificial-Intelligence-Century-Stephen-Lucci/dp/1936420236">
                 <figure>
                     <img src="http://i43.tower.com/images/mm120997292/artificial-intelligence-in-21st-century-stephen-lucci-hardcover-cover-art.jpg">
                     <figcaption> "Inductive Learning" (2nd, forthcoming)</figcaption>
