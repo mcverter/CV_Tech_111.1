@@ -95,13 +95,13 @@ a:visited {
     color:#A68D00;
 }
 
-ul a:link {
+.main ul a:link {
     color:#6f0aaa;
 }
-ul a:hover {
+.main ul a:hover {
     color:maroon;
     font-weight:bold;
 }
-ul a:visited {
+.main ul a:visited {
     color:maroon;
 }
