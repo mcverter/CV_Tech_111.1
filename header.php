@@ -10,6 +10,7 @@ echo <<<EOT
     <title> Mitchell Verter | $title </title>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <meta charset="UTF-8">
+    <base target="_blank">
 </head>
 
 <body>
