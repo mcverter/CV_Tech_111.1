@@ -1,6 +1,6 @@
 <?php include("header.php");  make_header("Past Engineering Jobs")?>
 
-<h2>            <a href="http://www.curiomotion.com">
+<h2>            <a target="_blank" href="http://www.curiomotion.com">
         Curiomotion / Software Engineer / New York, NY / 2013
     </a>
 </h2>
@@ -15,7 +15,7 @@
 </ul>
 
 <h2>
-    <a href="http://www.google.com/patents/WO2001015004A2?cl=en">Shortcycles / San Bruno, CA / 2000-2002 </a>
+    <a target="_blank" href="http://www.google.com/patents/WO2001015004A2?cl=en">Shortcycles / San Bruno, CA / 2000-2002 </a>
 </h2>
 <ul>
     <li>LAMP B2B based around an ontological database which allowed sales teams to mark news stories relative to their business sales cycle.  </li>
@@ -24,7 +24,7 @@
 </ul>
 
 <h2>
-    <a href="http://www.thefreelibrary.com/IKOS+Systems+to+acquire+Virtual+Machine+Works%3B+acquisition+key...-a018075037"> IKOS ( Virtual Machine Works ) / Software Engineer / Cambridge, MA / 1997-1999 </a>
+    <a target="_blank" href="http://www.thefreelibrary.com/IKOS+Systems+to+acquire+Virtual+Machine+Works%3B+acquisition+key...-a018075037"> IKOS ( Virtual Machine Works ) / Software Engineer / Cambridge, MA / 1997-1999 </a>
 </h2>
 
 <ul>

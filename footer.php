@@ -2,7 +2,7 @@
 
 <div id="email">
     Contact me :
-    <a href="mailto:mitchell.verter@gmail.com"> mitchell.verter@gmail.com </a>
+    <a target="_blank" href="mailto:mitchell.verter@gmail.com"> mitchell.verter@gmail.com </a>
 </div>
 <br>
     <div class="nav">

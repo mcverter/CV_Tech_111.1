@@ -2,7 +2,7 @@
 
 <h2>Github</h2>
 <ul>
-    <li> <a href="https://github.com/mcverter">Github Main</a> </li>
+    <li> <a target="_blank" href="https://github.com/mcverter">Github Main</a> </li>
 </ul>
 
 <h2> Parallel Text </h2>
