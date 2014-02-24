@@ -19,7 +19,7 @@
                 <figcaption> "Anarchism as a Practice of Caring" (Ch 7, 2013)</figcaption>
             </figure>
         </a>
-        <a target="_blank" href="http://www.amazon.com/New-Perspectives-Anarchism-Nathan-Jun">
+        <a target="_blank" href="http://www.amazon.com/New-Perspectives-Anarchism-Nathan-Jun/dp/0739132415/ref=sr_1_1?ie=UTF8&qid=1393255330&sr=8-1&keywords=new+perspectives+on+anarchism">
             <figure>
                 <img src="static/NPonA.jpg">
                 <figcaption> "The Anarchism of the Other Person" (Ch 5, 2009)</figcaption>
