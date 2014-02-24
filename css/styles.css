@@ -13,16 +13,6 @@ ul {
     background: gold;
 }
 
-ul a:link {
-    color:#6f0aaa;
-}
-ul a:hover {
-    color:maroon;
-    font-weight:bold;
-}
-ul a:visited {
-    color:maroon;
-}
 blockquote {
     background: #8d2372;
 
@@ -90,4 +80,28 @@ a:hover {
 }
 a:visited {
     color:#A68D00;
+}
+
+
+
+.nav a:link {
+    color:#BFAA30;
+}
+.nav a:hover {
+    color:#A68D00;
+    font-weight:bold;
+}
+.nav a:visited {
+    color:#A68D00;
+}
+
+ul a:link {
+    color:#6f0aaa;
+}
+ul a:hover {
+    color:maroon;
+    font-weight:bold;
+}
+ul a:visited {
+    color:maroon;
 }

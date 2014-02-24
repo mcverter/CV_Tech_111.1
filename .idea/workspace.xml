@@ -62,7 +62,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="1" selection-start="211" selection-end="211" vertical-scroll-proportion="0.35698923" vertical-offset="133" max-vertical-offset="2254">
+            <state line="107" column="0" selection-start="1322" selection-end="1322" vertical-scroll-proportion="0.90107524" vertical-offset="2042" max-vertical-offset="2599">
               <folding />
             </state>
           </provider>
@@ -127,7 +127,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="414" />
+    <option name="x" value="102" />
+    <option name="y" value="13" />
     <option name="width" value="989" />
     <option name="height" value="738" />
   </component>
@@ -261,7 +262,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="414" y="0" width="989" height="738" extended-state="0" />
+    <frame x="102" y="13" width="989" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -486,7 +487,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="211" selection-end="211" vertical-scroll-proportion="0.35698923" vertical-offset="133" max-vertical-offset="2254">
+        <state line="107" column="0" selection-start="1322" selection-end="1322" vertical-scroll-proportion="0.90107524" vertical-offset="2042" max-vertical-offset="2599">
           <folding />
         </state>
       </provider>
