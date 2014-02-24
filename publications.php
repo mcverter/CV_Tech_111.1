@@ -1,4 +1,5 @@
 <?php include("header.php");  make_header("Publications")?>
+
     <div id="publications">
         <a href="http://www.amazon.com/Artificial-Intelligence-Century-Stephen-Lucci/dp/1936420236">
             <figure>
@@ -37,4 +38,5 @@
             </figure>
         </a>
     </div>
+
 <?php include("footer.php"); ?>

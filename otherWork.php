@@ -2,7 +2,7 @@
 
 <h2> Professor/TA, York University/New School		Toronto and New York		09/07-05/12</h2>
 <ul>
-    <li> Awarded Jacob Javits scholarship for graduate study of Philosophy </li>
+    <li> Awarded <a href="http://www2.ed.gov/programs/jacobjavits/javits-fellows-08.pdf">Jacob Javits Scholarship </a> for graduate study of Philosophy </li>
     <li> Taught undergraduate classes in
         <ul>
             <li> Composition </li>
@@ -15,7 +15,11 @@
 
 <h2> Author, AK Press, 				Oakland, CA			09/04-05/06</h2>
 <ul>
-    <li> Co-authored 420-page volume, Dreams of Freedom:  A Ricardo Flores Magon Reader</li>
+    <li> Co-authored 420-page volume,
+        <a href="http://www.akpress.org/dreamsoffreedommagonreader.html">
+            Dreams of Freedom:  A Ricardo Flores Magon Reader
+        </a>
+    </li>
     <li> Authored historical overview, translated 35 essays, created supplementary materials.</li>
 </ul>
 

@@ -23,91 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="education.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/education.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="340" selection-end="340" vertical-scroll-proportion="-10.78125" vertical-offset="0" max-vertical-offset="529">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CV_Tech_111.1.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CV_Tech_111.1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="65" selection-end="65" vertical-scroll-proportion="-2.0" vertical-offset="5" max-vertical-offset="621">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="otherWork.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/otherWork.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="4" selection-start="637" selection-end="637" vertical-scroll-proportion="-12.9375" vertical-offset="0" max-vertical-offset="667">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="1" selection-start="205" selection-end="205" vertical-scroll-proportion="-6.7954545" vertical-offset="0" max-vertical-offset="2967">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="publications.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/publications.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1035">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="software.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/software.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="72" selection-start="221" selection-end="221" vertical-scroll-proportion="0.24784483" vertical-offset="0" max-vertical-offset="2392">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="552">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="2" selection-start="689" selection-end="689" vertical-scroll-proportion="-10.1875" vertical-offset="387" max-vertical-offset="851">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="184">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lectures.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="lectures.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lectures.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="633" selection-end="633" vertical-scroll-proportion="-11.625" vertical-offset="42" max-vertical-offset="598">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598">
               <folding />
             </state>
           </provider>
@@ -123,27 +42,27 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/projects.php" />
         <option value="$PROJECT_DIR$/demosrepos.php" />
         <option value="$PROJECT_DIR$/engineerWork.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/CV_Tech_111.1.php" />
-        <option value="$PROJECT_DIR$/software.php" />
         <option value="$PROJECT_DIR$/lectures.php" />
         <option value="$PROJECT_DIR$/education.php" />
         <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/otherWork.php" />
-        <option value="$PROJECT_DIR$/publications.php" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/software.php" />
+        <option value="$PROJECT_DIR$/otherWork.php" />
+        <option value="$PROJECT_DIR$/projects.php" />
+        <option value="$PROJECT_DIR$/publications.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
-    <option name="y" value="22" />
-    <option name="width" value="954" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1384" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -276,8 +195,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="22" width="954" height="738" extended-state="0" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1384" height="738" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -406,6 +325,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="16" selection-start="56" selection-end="56" vertical-scroll-proportion="0.09126984" vertical-offset="0" max-vertical-offset="2967">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="675" selection-end="675" vertical-scroll-proportion="-13.0625" vertical-offset="180" max-vertical-offset="736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demosrepos.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="33" selection-start="0" selection-end="76" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="805">
@@ -415,28 +348,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/engineerWork.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="40" selection-start="464" selection-end="465" vertical-scroll-proportion="-1.6" vertical-offset="38" max-vertical-offset="1012">
+        <state line="10" column="40" selection-start="464" selection-end="465" vertical-scroll-proportion="-6.0" vertical-offset="38" max-vertical-offset="1012">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="0" selection-start="3514" selection-end="3514" vertical-scroll-proportion="0.9008621" vertical-offset="1859" max-vertical-offset="2415">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CV_Tech_111.1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="709" selection-end="709" vertical-scroll-proportion="0.91085273" vertical-offset="13" max-vertical-offset="621">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/otherWork.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="31" selection-start="952" selection-end="952" vertical-scroll-proportion="0.9085487" vertical-offset="141" max-vertical-offset="759">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/projects.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="59" selection-start="2478" selection-end="2478" vertical-scroll-proportion="-8.65625" vertical-offset="827" max-vertical-offset="1357">
+        <state line="54" column="0" selection-start="2674" selection-end="2674" vertical-scroll-proportion="0.9085487" vertical-offset="785" max-vertical-offset="1380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publications.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1901" selection-end="1901" vertical-scroll-proportion="0.9085487" vertical-offset="463" max-vertical-offset="1081">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/education.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="11" selection-start="186" selection-end="186" vertical-scroll-proportion="0.26744187" vertical-offset="0" max-vertical-offset="529">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="552">
+        <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.044573642" vertical-offset="0" max-vertical-offset="552">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="2" selection-start="689" selection-end="689" vertical-scroll-proportion="-10.1875" vertical-offset="387" max-vertical-offset="851">
+        <state line="31" column="2" selection-start="689" selection-end="689" vertical-scroll-proportion="0.79457366" vertical-offset="303" max-vertical-offset="851">
           <folding />
         </state>
       </provider>
@@ -450,56 +418,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lectures.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="633" selection-end="633" vertical-scroll-proportion="-11.625" vertical-offset="42" max-vertical-offset="598">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/education.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="340" selection-end="340" vertical-scroll-proportion="-10.78125" vertical-offset="0" max-vertical-offset="529">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="675" selection-end="675" vertical-scroll-proportion="-13.0625" vertical-offset="180" max-vertical-offset="736">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CV_Tech_111.1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="65" selection-end="65" vertical-scroll-proportion="-2.0" vertical-offset="5" max-vertical-offset="621">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/otherWork.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="4" selection-start="637" selection-end="637" vertical-scroll-proportion="-12.9375" vertical-offset="0" max-vertical-offset="667">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publications.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1035">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="205" selection-end="205" vertical-scroll-proportion="-6.7954545" vertical-offset="0" max-vertical-offset="2967">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/software.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="72" selection-start="221" selection-end="221" vertical-scroll-proportion="0.24784483" vertical-offset="0" max-vertical-offset="2392">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598">
           <folding />
         </state>
       </provider>

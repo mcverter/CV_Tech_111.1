@@ -11,9 +11,9 @@
 <ul>
     <li> Have programmed in PERL since 1998</li>
     <li> Worked 2 years at ShortCycles in Object Oriented PERL</li>
-    <li> W.A.S.T.E. squat, want squat in PERL/CGI (deployment / codebase )</li>
-    <li> Used PHP/MySQL for Database class (deployment / codebase) </li>
-    <li> Used PHP/MySQL for "First Row Movies" (deployment / codebase) </li>
+    <li> W.A.S.T.E. squat, want squat in PERL/CGI (<a href="http://waste.org/~roadrunner/squat/index.html">deployment</a> / <a href="https://github.com/mcverter/Guttersnipe">codebase</a>)</li>
+    <li> Used PHP/MySQL for Database class (deployment / <a href="https://github.com/mcverter/PHP_mysql">codebase</a>) </li>
+    <li> Used PHP/MySQL for "First Row Movies" (<a href="http://waste.org/~roadrunner/firstrowmovies/">deployment</a> / <a href="https://github.com/mcverter/php_mysql_firstrowmovies-github"> codebase</a>) </li>
     <li> Coding PHP/Oracle for PADMA </li>
     <li> Coding Guttersnipe using Laravel </li>
 </ul>
@@ -28,12 +28,10 @@
 <ul>
     <li> Coding in Java for 3+ years </li>
     <li> Used it throughout
-        <a href="https://github.com/mcverter/Python_Java_CCNY_Code/tree/master/Java"> CCNY
-        </a>
+        <a href="https://github.com/mcverter/Python_Java_CCNY_Code/tree/master/Java"> CCNY </a>
     </li>
     <li> Solid Core Java Skills </li>
     <li> Have not used J2EE or advanced packages </li>
-
 </ul>
 
 <h2>  Python </h2>
@@ -41,11 +39,14 @@
     <li> Transitioned to Python from Java for quicker prototyping </li>
     <li> Still developing pythonic coding habits (eg: lambdas and list comprehensions)</li>
     <li> Used it throughout
-        <a href="https://github.com/mcverter/Python_Java_CCNY_Code/tree/master/Python"> CCNY
-        </a>
+        <a href="https://github.com/mcverter/Python_Java_CCNY_Code/tree/master/Python"> CCNY</a>
     </li>
-    <li> Used Django to <a href="https://github.com/mcverter/python_django_paralleltext-github">
-            </a> code <a href="http://parallel-text.herokuapp.com"> Parallel Text </a>
+    <li> Used it to develop
+        <a href="https://github.com/mcverter/Python_Image_Segmentation">
+            Image Segmentation Library </a>
+    </li>
+    <li> Used Django for "Parallel Text" (<a href="http://parallel-text.herokuapp.com"> deployment </a>
+        / <a href="https://github.com/mcverter/python_django_paralleltext-github"> codebase</a>) </li>
 </ul>
 
 <h2> Javascript </h2>
@@ -59,7 +60,7 @@
 
 <h2> Database </h2>
 <ul>
-    <li> Know SQL </li>
+    <li> Know SQL, Prepared Statements </li>
     <li> Installed and worked with mysql, Oracle, postgres </li>
     <li> Have used JDBC, PDO, php::mysql and php::mysqli, oci8 </li>
     <li> Learning MongoDB </li>
