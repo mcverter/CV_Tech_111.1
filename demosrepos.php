@@ -5,7 +5,7 @@
     <li> <a target="_blank" href="https://github.com/mcverter">Github Main</a> </li>
 </ul>
 
-<h2> Analytics Viewr (Fall 2013)</h2>
+<h2> Analytics Viewer (Fall 2013)</h2>
 <ul>
     <li> PHP / Javascript </li>
     <li> (deployment, <a target="_blank" href="https://github.com/mcverter/CPlusPlus_SomePHP_AnalyticsEngine/tree/master/AnalyticsLib/WebGraph"> codebase </a>)</li>
