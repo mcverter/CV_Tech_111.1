@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="516">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="184">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="12" selection-start="365" selection-end="365" vertical-scroll-proportion="0.14018692" vertical-offset="308" max-vertical-offset="736">
               <folding />
             </state>
           </provider>
@@ -45,7 +54,6 @@
         <option value="$PROJECT_DIR$/CV_Tech_111.1.php" />
         <option value="$PROJECT_DIR$/lectures.php" />
         <option value="$PROJECT_DIR$/education.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/software.php" />
@@ -55,6 +63,7 @@
         <option value="$PROJECT_DIR$/demosrepos.php" />
         <option value="$PROJECT_DIR$/engineerWork.php" />
         <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
       </list>
     </option>
   </component>
@@ -331,13 +340,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="-5.34375" vertical-offset="220" max-vertical-offset="736">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lectures.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="63" selection-start="0" selection-end="591" vertical-scroll-proportion="0.4051724" vertical-offset="134" max-vertical-offset="598">
@@ -418,6 +420,13 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="184">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="12" selection-start="365" selection-end="365" vertical-scroll-proportion="0.14018692" vertical-offset="308" max-vertical-offset="736">
           <folding />
         </state>
       </provider>
