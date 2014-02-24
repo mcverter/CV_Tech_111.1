@@ -9,11 +9,11 @@
 </ul>
 
 <ul>
-    <li> <a href="otherWork.php"> Other Work History </a> </li>
+    <li> <a href="otherWork.php"> Academic Work History </a> </li>
     <li> <a href="publications.php"> Publications </a> </li>
     <li> <a href="lectures.php"> Lectures </a> </li>
     <li> <a href="education.php"> Education </a> </li>
-    <li> <a href="contact.php"> Contact </a> </li>
+    <li> <a href="contact.php"> Contact &amp; Links </a> </li>
 
 </ul>
 
