@@ -11,14 +11,12 @@
     <li> (deployment, <a target="_blank" href="https://github.com/mcverter/CPlusPlus_SomePHP_AnalyticsEngine/tree/master/AnalyticsLib/WebGraph"> codebase </a>)</li>
 </ul>
 
-<li> Samples
+<h2> Samples</h2>
     <ul>
->
         <li> Used PHP/MySQL for "First Row Movies" (<a target="_blank" href="http://waste.org/~roadrunner/firstrowmovies/">deployment</a> / <a target="_blank" href="https://github.com/mcverter/php_mysql_firstrowmovies-github"> codebase</a>) </li>
         <li> Used PHP/MySQL for Database class (deployment / <a target="_blank" href="https://github.com/mcverter/PHP_mysql">codebase</a>) </li>
         <li> W.A.S.T.E. squat, want squat in PERL/CGI (<a target="_blank" href="http://waste.org/~roadrunner/squat/index.html">deployment</a> / <a target="_blank" href="https://github.com/mcverter/Guttersnipe">codebase</a>)</li>
     </ul>
-</li>
 
 <h2> Python Image Segmentation (Spring 2013)</h2>
 <ul>

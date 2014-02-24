@@ -55,19 +55,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="software.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="software.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/software.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="12" selection-start="2032" selection-end="2032" vertical-scroll-proportion="0.27951807" vertical-offset="942" max-vertical-offset="2622">
+            <state line="46" column="12" selection-start="2032" selection-end="2032" vertical-scroll-proportion="-0.96666664" vertical-offset="942" max-vertical-offset="2622">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demosrepos.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="demosrepos.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demosrepos.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="48" selection-start="853" selection-end="1082" vertical-scroll-proportion="-1.9375" vertical-offset="352" max-vertical-offset="1173">
+            <state line="19" column="0" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.86282307" vertical-offset="3" max-vertical-offset="1127">
               <folding />
             </state>
           </provider>
@@ -102,9 +102,9 @@
         <option value="$PROJECT_DIR$/engineerWork.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/contact.php" />
-        <option value="$PROJECT_DIR$/demosrepos.php" />
         <option value="$PROJECT_DIR$/projects.php" />
         <option value="$PROJECT_DIR$/software.php" />
+        <option value="$PROJECT_DIR$/demosrepos.php" />
       </list>
     </option>
   </component>
@@ -485,13 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demosrepos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="48" selection-start="853" selection-end="1082" vertical-scroll-proportion="-1.9375" vertical-offset="352" max-vertical-offset="1173">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="61" column="31" selection-start="3344" selection-end="3344" vertical-scroll-proportion="-10.6875" vertical-offset="1061" max-vertical-offset="1564">
@@ -501,7 +494,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/software.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="12" selection-start="2032" selection-end="2032" vertical-scroll-proportion="0.27951807" vertical-offset="942" max-vertical-offset="2622">
+        <state line="46" column="12" selection-start="2032" selection-end="2032" vertical-scroll-proportion="-0.96666664" vertical-offset="942" max-vertical-offset="2622">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demosrepos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="1095" selection-end="1095" vertical-scroll-proportion="0.86282307" vertical-offset="3" max-vertical-offset="1127">
           <folding />
         </state>
       </provider>
