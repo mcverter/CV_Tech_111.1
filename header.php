@@ -10,10 +10,11 @@ echo <<<EOT
     <title> Mitchell Verter | $title </title>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <meta charset="UTF-8">
+    <script src="color_changer.js"></script>
 </head>
 
-<body>
-    <div class="nav">
+<body onload="changeColor()">
+    <div id="header" class="nav">
         <ul>
             <li> <a href="engineerWork.php"> Tech Work</a>   | </li>
             <li> <a href="projects.php"> Tech Projects  </a>  | </li>
