@@ -33,7 +33,7 @@ function changeColor()
         elt.style.backgroundColor = nextbg;
     }
 
-    t=setTimeout(function(){changeColor()},500);
+    t=setTimeout(function(){changeColor()},250);
 }
 
 
