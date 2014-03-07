@@ -1,17 +1,9 @@
-#publications {
-    text-align: center;
-    width : 85%;
-    margin-left: auto;
-    margin-right: auto;
-}
-#publications img {
-    height: 250px;
-    width: 100px;
+body {
+    background-color:#452B83;
+    color:#BFA92F;
 }
 
-#publications a {
-    display: block;
-}
+
 
 h1, h2 {
     text-align: center;
@@ -25,11 +17,15 @@ ul {
     margin-left: auto;
     margin-right: auto;
     color:  black;
-    background: gold;
+    background: white;
+
+/*    background: gold; */
 }
 
 blockquote {
-    background: darkorange;
+/*    background: darkorange; */
+    background: white;
+
     color: black;
     text-align: center;
 }
@@ -44,8 +40,9 @@ div {
 
 .main {
     width: 85%;
-    color:  orange;
-    background: purple;
+    color:  #ff7373;
+    background: black;
+/*    background: purple; */
 }
 
 #email {
@@ -83,10 +80,6 @@ tr, td {
     border: 1px maroon;
 }
 
-body {
-    background-color:#452B83;
-    color:yellow;
-}
 
 a:link {
     color:#BFAA30;
@@ -133,3 +126,19 @@ blockquote a:hover {
 blockquote a:visited {
     color:maroon;
 }
+
+#publications {
+    text-align: center;
+    width : 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#publications img {
+    height: 250px;
+    width: 100px;
+}
+
+#publications a {
+    display: block;
+}
+
