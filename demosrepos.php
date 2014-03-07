@@ -5,38 +5,76 @@
     <li> <a target="_blank" href="https://github.com/mcverter">Github Main</a> </li>
 </ul>
 
-<h2> Analytics Viewer (Fall 2013)</h2>
+
+<h1> Samples</h1>
+
+<h2> PHP</h2>
+
 <ul>
-    <li> PHP / Javascript </li>
-    <li> (deployment, <a target="_blank" href="https://github.com/mcverter/CPlusPlus_SomePHP_AnalyticsEngine/tree/master/AnalyticsLib/WebGraph"> codebase </a>)</li>
+    <li>
+        <h3><a href=""https://github.com/mcverter/PADMA">PADMA (PHP, HTML5/CSS3, Javascript, Oracle DB) </a></h3>
+        <strong>Current</strong>
+    </li>
+
+    <li>
+         <h3>Analytics Viewer</h3>
+        <a target="_blank" href="https://github.com/mcverter/CPlusPlus_SomePHP_AnalyticsEngine/tree/master/AnalyticsLib/WebGraph">
+            Codebase (PHP, Javascript)
+        </a>
+        <strong>Fall 2013</strong>
+    </li>
+
+    <li>
+        <h3><a target="_blank" href="http://waste.org/~roadrunner/firstrowmovies/">First Row Movies </a> </h3>,
+        <a target="_blank" href="https://github.com/mcverter/php_mysql_firstrowmovies-github">
+            Codebase (PHP, mysql, javascript)
+        </a>
+        <strong>Fall 2012</strong>
+    </li>
+
+    <li>
+        <h3>Mapping Projects </h3>,
+        <a target="_blank" href="https://github.com/mcverter/PHP_mysql">
+            Codebase (PHP,mysql, javascript)  </a>
+        <strong> Fall 2012 </strong>
+    </li>
+
+    <li>
+        <h3><a target="_blank" href="http://waste.org/~roadrunner/squat/index.html">W.A.S.T.E. squat, want squat </a></h3> ,
+        <a target="_blank" href="https://github.com/mcverter/Guttersnipe">
+            Codebase (PERL/CGI) </a>
+        <strong>2002</strong>
+    </li>
+
 </ul>
 
-<h2> Samples</h2>
-    <ul>
-        <li> Used PHP/MySQL for "First Row Movies" (<a target="_blank" href="http://waste.org/~roadrunner/firstrowmovies/">deployment</a> / <a target="_blank" href="https://github.com/mcverter/php_mysql_firstrowmovies-github"> codebase</a>) </li>
-        <li> Used PHP/MySQL for Database class (deployment / <a target="_blank" href="https://github.com/mcverter/PHP_mysql">codebase</a>) </li>
-        <li> W.A.S.T.E. squat, want squat in PERL/CGI (<a target="_blank" href="http://waste.org/~roadrunner/squat/index.html">deployment</a> / <a target="_blank" href="https://github.com/mcverter/Guttersnipe">codebase</a>)</li>
-    </ul>
 
-<h2> Python Image Segmentation (Spring 2013)</h2>
+<h2> Python</h2>
+
 <ul>
-    <li> Python, Machine Learning, Hidden Markov Models, Sphinx </li>
-    <li> <a target="_blank" href="https://github.com/mcverter/Python_Image_Segmentation"> Codebase</a> </li>
-</ul>
 
+    <li>
+        <h3> Python Image Segmentation </h3> ,
+        <a target="_blank" href="https://github.com/mcverter/Python_Image_Segmentation">
+            Codebase ( Python, Machine Learning, Hidden Markov Models, Sphinx )
+        </a>
+        <strong>Spring 2013</strong>
+    </li>
 
-<h2> Parallel Text (Spring 2013)</h2>
-<ul>
-    <li> Python/Django, postgres, HTML, CSS, Javascript/jquery </li>
-    <li> <a target="_blank" href="http://parallel-text.herokuapp.com"> Deployment </a></li>
-    <li> <a target="_blank" href="https://github.com/mcverter/python_django_paralleltext-github"> Codebase</a> </li>
-</ul>
+    <li>
+        <h3> <a target="_blank" href="http://parallel-text.herokuapp.com"> Parallel Text </a> </h3>,
+        <a target="_blank" href="https://github.com/mcverter/python_django_paralleltext-github">
+            Codebase ( Python/Django, postgres, HTML, CSS, Javascript/jquery )</a>
+        <strong>Spring 2013</strong>
+    </li>
 
-<h2> First Row Movies (Fall 2012)</h2>
-<ul>
-    <li> Object-Oriented PHP, mysql, Javascript, CSS3, HTML5 </li>
-    <li> <a target="_blank" href="http://waste.org/~roadrunner/firstrowmovies/">Deployment</a> </li>
-    <li> <a target="_blank" href="https://github.com/mcverter/php_mysql_firstrowmovies-github"> Codebase</a> </li>
+    <li>  <h3> Machine Learning / AI Courses </h3>,
+        <a target="_blank" href="https://github.com/mcverter/Python_Java_CCNY_Code/tree/master/Python">
+            Codebase ( Python )
+        </a>
+        <strong>Spring 2013</strong>
+    </li>
+
 </ul>
 
 
