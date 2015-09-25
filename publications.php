@@ -13,7 +13,7 @@
                 <figcaption> "The Flow of the Breath: Levinas Mouth-to-Mouth with Buddhism" (Ch 13, 2014)</figcaption>
             </figure>
         </a>
-        <a target="_blank" href="http://www.amazon.com/The-Anarchist-Turn-Jacob-Blumenfeld/dp/0745333427">
+        <a target="_blank" href="http://marxandphilosophy.org.uk/reviewofbooks/reviews/2014/987">
             <figure>
                 <img src="static/ATurn.jpg">
                 <figcaption> "Anarchism as a Practice of Caring" (Ch 7, 2013)</figcaption>
