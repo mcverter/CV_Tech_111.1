@@ -45,6 +45,11 @@ div {
 /*    background: purple; */
 }
 
+#resumes {
+    width: 85%;
+    font-size: 1.8em;
+}
+
 #email {
     width: 85%;
     font-size: 3em;
