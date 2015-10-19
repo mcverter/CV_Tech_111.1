@@ -10,8 +10,15 @@
 
 <h2> <a target="_blank" href="https://github.com/mcverter/2014_CodeStudies"> Self Education (2014) </a> </h2>
 <ul>
-    <li> Ruby On Rails and other MVC Frameworks</li>
-    <li> Angular.js, node.js, Backbone</li>
+    <li> Javascript
+        <ul>
+            <li>Angular, React, Ember</li>
+            <li>Node, MEAN, Mongo, Async</li>
+            <li>jQuery, GoogleMaps</li>
+            <li>Grunt</li>
+        </ul>
+    </li>
+    <li>     Ruby On Rails and other MVC Frameworks </li>
     <li> Design Patterns </li>
     <li> Django </li>
     <li> Self study posted to: <a target="_blank" href="https://github.com/mcverter/2014_CodeStudies">https://github.com/mcverter/2014_CodeStudies</a> </li>
