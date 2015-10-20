@@ -32,7 +32,7 @@
             <li>Topics
                 <ul>
                     <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Javascript/GoogleMaps">GoogleMaps</li>
-                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Javascript/AsyncJS">Async</li>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Javascript/AsyncJS">Async</a></li>
                 </ul>
             </li>
         </ul>
