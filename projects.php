@@ -12,15 +12,47 @@
 <ul>
     <li> Javascript
         <ul>
-            <li>Angular, React, Ember</li>
-            <li>Node, MEAN, Mongo, Async</li>
-            <li>jQuery, GoogleMaps</li>
-            <li>Grunt</li>
+            <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Javascript">Javascript Main</li>
+            <li>Front End
+                <ul>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Javascript/Angular">Angular</li>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Javascript/React">React</li>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Javascript/ember">Ember</li>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Javascript/jQuery">jQuery </li>
+                </ul>
+            </li>
+            <li>Node
+                <ul>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Javascript/Node">Node Main</li>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/MEAN">MEAN</li>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Mongo">Mongo</li>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/GruntJS">Grunt</li>
+                </ul>
+            </li>
+            <li>Topics
+                <ul>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Javascript/GoogleMaps">GoogleMaps</li>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Javascript/AsyncJS">Async</li>
+                </ul>
+            </li>
         </ul>
     </li>
-    <li>     Ruby On Rails and other MVC Frameworks </li>
+    <li> Scripting Languages <ul>
+            <li> <h2>PHP</h2>
+                <ul>
+                    <li> <a href="https://github.com/mcverter/2014_CodeStudies/tree/master/PHP">PHP Main</a></li>
+                    <li> <a href="https://github.com/mcverter/2014_CodeStudies/tree/master/PHP/Laravel"> Laravel </a> </li>
+                </ul>
+            </li>
+            <li>  Python
+                <ul>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Python">Python Main</a></li>
+                    <li><a href="https://github.com/mcverter/2014_CodeStudies/tree/master/Python/Django">Django</a></li>
+            </ul></li>
+            <li>Ruby</li>
+            <li>PERL</li>
+        </ul> </li>
     <li> Design Patterns </li>
-    <li> Django </li>
     <li> Self study posted to: <a target="_blank" href="https://github.com/mcverter/2014_CodeStudies">https://github.com/mcverter/2014_CodeStudies</a> </li>
 </ul>
 
